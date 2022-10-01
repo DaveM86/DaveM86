@@ -17,6 +17,11 @@ You can click the Preview link to take a look at your changes.
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davem86&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davem86&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 
 <!---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davem86&repo=Status_Dashboard&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davem86&repo=Authentication&theme=radical)](https://github.com/anuraghazra/)
+--->
+
+<!---
 #alternative way to layout images
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davem86&theme=radical" />
