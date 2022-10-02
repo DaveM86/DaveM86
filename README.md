@@ -4,7 +4,7 @@ I’m interested in desktop applicaion and webapp development, using frameworks 
 
 I’m currently learning C++ and at stage 2 of an Open University degree studying for a BSc(Hons) in Computing and IT (Software).
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/david-milne-a508696a/)
+Reach me on [LinkedIn](https://www.linkedin.com/in/david-milne-a508696a/) or [Twitter](https://twitter.com/DavidMilne5)
 
 Some of my stats and favorite repos can be found below.
 
