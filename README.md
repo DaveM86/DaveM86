@@ -1,6 +1,6 @@
 Hi, I’m  David Milne.
 
-I’m interested in desktop applicaion and webapp development, using frameworks such as Django and Flask and tools such as Pandas and Plotly. I've worked with Python for over 5 years and use SQL daily with Oracle and PostgreSQL.
+I’m interested in desktop applicaion and webapp development, using frameworks such as Django and Flask and tools such as Pandas and Plotly. I've worked with Python for over 5 years in personal projects and use SQL daily with Oracle and PostgreSQL.
 
 I’m currently learning Java, Docker and at stage 2 of an Open University degree studying for a BSc(Hons) in Computing and IT (Software).
 
